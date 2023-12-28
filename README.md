@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h3 align="center">An enthusiastic of technology from Brazil and a Future Software Developer </h3>
+<h3 align="center">An enthusiastic of technology from Brazil and a Full-Stack Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100teno&label=Profile%20views&color=0e75b6&style=flat" alt="100teno" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 
