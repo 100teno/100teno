@@ -6,7 +6,7 @@
 
 - 📝 I'm currently graduating at <a href="https://www.uninter.com" target="blank">UNINTER</a>
 
-- 🌱 I’m currently learning **System analysis and development**
+- 🌱 I’m currently graduating Bachelor's Degree as a **Software Engineering**
 
 - 📫 How to reach me **100theno@gmail.com**
 
