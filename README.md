@@ -5,8 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 
 - 📝 I'm currently graduating at <a href="https://www.uninter.com" target="blank">UNINTER</a>
-
-- 🌱 I’m currently studying **Software Engineering**  
+ 
 
 - 📫 How to reach me **100theno@gmail.com**
 
